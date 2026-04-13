@@ -1,1 +1,5 @@
-# dynamic-pricing-ai
+Dynamic Pricing AI System
+
+- Demand prediction using ML
+- Price optimization (revenue & profit)
+- Streamlit dashboard
